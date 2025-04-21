@@ -62,6 +62,7 @@ int main() {
 
 			y = y + 1;
 		} while (y <= numeroCasasEsquerda);
+		
 
 
 
