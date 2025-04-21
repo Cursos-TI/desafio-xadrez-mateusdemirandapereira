@@ -78,6 +78,7 @@ int main() {
 	printf("Movendo o Cavalo em L\n");
 	movimentoCavalo(2);
 	printf("\n");
+	
 	// movendo o Bispo usando loops aninhados
 	printf("movendo o Bispo usando loops aninhados\n");
 	movimentoBispo(5);
